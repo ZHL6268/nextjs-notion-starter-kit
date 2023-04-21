@@ -9,17 +9,18 @@ export default siteConfig({
   // rootNotionSpaceId: 'fde5ac74eea345278f004482710e1af3',
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'LV技术派',
+  domain: 'https://lv-xmn.notion.site/b5793fd0f0024dbf9dbcc6140b3d1eab?v=74713c213be84f408b615da9708fed46',
+  author: 'LV',
 
   // open graph metadata (optional)
-  description: 'Personal site of Travis Fischer aka Transitive Bullshit',
+  description: 'LV技术派',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  // twitter: 'transitive_bs',
+  // github: 'transitive-bullshit',
+  // linkedin: 'fisch2',
+  // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
