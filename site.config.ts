@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b5793fd0f0024dbf9dbcc6140b3d1eab',
+  rootNotionPageId: '54a028a3075c4da28be76b7cc272eb39',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'LV技术派',
-  domain: 'https://lv-xmn.notion.site/b5793fd0f0024dbf9dbcc6140b3d1eab?v=74713c213be84f408b615da9708fed46',
+  domain: 'https://lv-xmn.notion.site/lv-xmn/LV-54a028a3075c4da28be76b7cc272eb39',
   author: 'LV',
 
   // open graph metadata (optional)
@@ -26,8 +26,8 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://transitivebullsh.it/page-icon.png',
-  defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
+  // defaultPageIcon: 'https://transitivebullsh.it/page-icon.png',
+  // defaultPageCover: 'https://transitivebullsh.it/page-cover.jpg',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
@@ -56,13 +56,13 @@ export default siteConfig({
   // important pages
   navigationStyle: 'custom',
   navigationLinks: [
-    {
-      title: 'About',
-      pageId: '8d0062776d0c4afca96eb1ace93a7538'
-    },
-    {
-      title: 'Contact',
-      pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
-    }
+    // {
+    //   title: 'About',
+    //   pageId: '8d0062776d0c4afca96eb1ace93a7538'
+    // },
+    // {
+    //   title: 'Contact',
+    //   pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
+    // }
   ]
 })
