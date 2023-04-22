@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'LV技术派',
-  domain: 'https://lv-xmn.notion.site/lv-xmn/LV-54a028a3075c4da28be76b7cc272eb39',
+  domain: 'lv-xmn.notion.site/lv-xmn/LV-54a028a3075c4da28be76b7cc272eb39',
   author: 'LV',
 
   // open graph metadata (optional)
